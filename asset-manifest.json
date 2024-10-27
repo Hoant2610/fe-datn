@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fe-datn/static/css/main.93a0497a.css",
+    "main.js": "/fe-datn/static/js/main.7bd6076f.js",
+    "index.html": "/fe-datn/index.html",
+    "main.93a0497a.css.map": "/fe-datn/static/css/main.93a0497a.css.map",
+    "main.7bd6076f.js.map": "/fe-datn/static/js/main.7bd6076f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.7bd6076f.js"
+  ]
+}
